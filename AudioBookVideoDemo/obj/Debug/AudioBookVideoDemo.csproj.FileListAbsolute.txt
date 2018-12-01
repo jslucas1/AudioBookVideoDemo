@@ -1,0 +1,16 @@
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\bin\Debug\AudioBookVideoDemo.exe.config
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\bin\Debug\AudioBookVideoDemo.exe
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\bin\Debug\AudioBookVideoDemo.pdb
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.csprojAssemblyReference.cache
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.frmCWID.resources
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.Properties.Resources.resources
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.csproj.GenerateResource.cache
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.csproj.CoreCompileInputs.cache
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.exe
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.pdb
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.frmMain.resources
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.csproj.CopyComplete
+C:\Users\jslucas\source\repos\AudioBookVideoDemo\AudioBookVideoDemo\obj\Debug\AudioBookVideoDemo.frmEdit.resources
